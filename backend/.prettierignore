@@ -1,0 +1,10 @@
+node_modules
+build
+dist
+.env
+.env.*
+.vscode
+.DS_Store
+.idea
+coverage
+mobile/node_modules
